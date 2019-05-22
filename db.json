@@ -4,36 +4,36 @@
     "category" : "Android Application",
     "title": "Cover Melody",
     "jobdesk": "UI/UX Designer",
-    "foto" : {"/aset/mobile.svg"}
+    "foto" : "mobile.svg"
     }, {
     "id": 2,
     "category" : "Android Application",
     "title": "QuranQu",
     "jobdesk": "Programmer",
-    "foto" : {"/aset/mobile.svg"}
+    "foto" : "mobile.svg"
     }, {
     "id": 3,
     "category" : "Android Application",
     "title": "Event ID",
     "jobdesk": "UI/UX Designer",
-    "foto" :{"/aset/mobile.svg"}
+    "foto" :"mobile.svg"
     }, {
     "id": 4,
     "category" : "Web Application",
     "title": "Seminar On Campus",
     "jobdesk": "Backend Developer",
-    "foto" : {"/aset/web.svg"}
+    "foto" : "mobile.svg"
     }, {
     "id": 5,
     "category" : "Web Application",
     "title": "Nge-Mount",
     "jobdesk": "Frontend Developer",
-    "foto" : {"/aset/mobile.svg"}
+    "foto" : "mobile.svg"
     }, {
     "id": 6,
     "category" : "Web Application",
     "title": "SI Cuti Online",
     "jobdesk": "Backend Developer",
-    "foto" :{"/aset/mobile.svg"}
+    "foto" :"mobile.svg"
     }]
 }
