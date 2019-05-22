@@ -1,21 +1,39 @@
 {
-  "mahasiswa" : [
-    {
-        "id": "1",
-        "title": "PsychologySays",
-        "desc": "Sebuah project berbasis web untuk konsultasi psikologi. Project ini dibuat guna memenuhi tugas akhir mata kuliah Proyek Aplikasi 3",
-        "cover": ["../aset/task.jpg"]
-      }, {
-        "id": "2",
-        "title": "Quranku",
-        "desc": "Sebuah project berbasis Android. Project ini dibuat guna memenuhi tugas akhir mata kuliah PAPB 1",
-        "cover": ["../aset/task.jpg"]
-      },
-    {
-        "id": "3",
-        "title": "My Weather",
-        "desc": "Sebuah project berbasis Android. Project ini dibuat guna memenuhi tugas akhir mata kuliah PAPB 2",
-        "cover": ["../aset/task.jpg"]
-    }
-  ]
+  "portofolio" :[{
+    "id": 1,
+    "category" : "Android Application",
+    "title": "Cover Melody",
+    "jobdesk": "UI/UX Designer",
+    "foto" : "mobile"
+    }, {
+    "id": 2,
+    "category" : "Android Application",
+    "title": "QuranQu",
+    "jobdesk": "Programmer",
+    "foto" : "mobile"
+    }, {
+    "id": 3,
+    "category" : "Android Application",
+    "title": "Event ID",
+    "jobdesk": "UI/UX Designer",
+    "foto" : "mobile"
+    }, {
+    "id": 4,
+    "category" : "Web Application",
+    "title": "Seminar On Campus",
+    "jobdesk": "Backend Developer",
+    "foto" : "web"
+    }, {
+    "id": 5,
+    "category" : "Web Application",
+    "title": "Nge-Mount",
+    "jobdesk": "Frontend Developer",
+    "foto" : "web"
+    }, {
+    "id": 6,
+    "category" : "Web Application",
+    "title": "SI Cuti Online",
+    "jobdesk": "Backend Developer",
+    "foto" : "web"
+    }]
 }
