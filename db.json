@@ -2,22 +2,22 @@
   "portofolio" :[{
     "id": 1,
     "title": "FitBal",
-    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Web 1"
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Web 1",
     "job": "Front-end developer",
     },{
     "id": 2,
     "title": "Jobtag",
-    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Perancangan Antarmuka Pengguna"
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Perancangan Antarmuka Pengguna",
     "job": "UI/UX designer",
     },{
     "id": 3,
     "title": "QuranQu",
-    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Pemrograman Aplikasi Perangkat Bergerak 1"
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Pemrograman Aplikasi Perangkat Bergerak 1",
     "job": "Front-end developer",
     },{
     "id": 4,
     "title": "Event ID",
-    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Pemrograman Apikasi Perangkat Bergerak 2"
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Pemrograman Apikasi Perangkat Bergerak 2",
     "job": "Front-end developer",
     }]
 }
