@@ -1,39 +1,23 @@
 {
   "portofolio" :[{
     "id": 1,
-    "category" : "Android Application",
-    "title": "Cover Melody",
-    "jobdesk": "UI/UX Designer",
-    "foto" : "mobile.svg"
-    }, {
+    "title": "FitBal",
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Web 1"
+    "job": "Front-end developer",
+    },{
     "id": 2,
-    "category" : "Android Application",
-    "title": "QuranQu",
-    "jobdesk": "Programmer",
-    "foto" : "mobile.svg"
-    }, {
+    "title": "Jobtag",
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Perancangan Antarmuka Pengguna"
+    "job": "UI/UX designer",
+    },{
     "id": 3,
-    "category" : "Android Application",
-    "title": "Event ID",
-    "jobdesk": "UI/UX Designer",
-    "foto" :"mobile.svg"
-    }, {
+    "title": "QuranQu",
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Pemrograman Aplikasi Perangkat Bergerak 1"
+    "job": "Front-end developer",
+    },{
     "id": 4,
-    "category" : "Web Application",
-    "title": "Seminar On Campus",
-    "jobdesk": "Backend Developer",
-    "foto" : "mobile.svg"
-    }, {
-    "id": 5,
-    "category" : "Web Application",
-    "title": "Nge-Mount",
-    "jobdesk": "Frontend Developer",
-    "foto" : "mobile.svg"
-    }, {
-    "id": 6,
-    "category" : "Web Application",
-    "title": "SI Cuti Online",
-    "jobdesk": "Backend Developer",
-    "foto" :"mobile.svg"
+    "title": "Event ID",
+    "desk"  : "Aplikasi untuk Tugas Akhir Praktikum Pemrograman Apikasi Perangkat Bergerak 2"
+    "job": "Front-end developer",
     }]
 }
